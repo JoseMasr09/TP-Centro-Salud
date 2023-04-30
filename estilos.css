@@ -4,5 +4,14 @@
 }
 
 .carousel-inner{
-    max-height: 25rem;
+    max-height: 30rem;
+}
+
+#derechos {
+    font-size: 18px;
+    background-color: rgb(191, 189, 189);
+}
+#encontranos{
+    font-family: italic;
+    
 }
