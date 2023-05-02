@@ -1,5 +1,5 @@
 #menuOpciones a {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold;
 }
 
@@ -12,6 +12,45 @@
     background-color: rgb(191, 189, 189);
 }
 #encontranos{
-    font-family: italic;
+    font-family: Arial, Helvetica, sans-serif;
     
 }
+
+fieldset {
+    position: absolute;
+    max-width: 400px;
+    top: 120px;
+    font-size: 20px;
+    margin: auto;
+    left: 35%;
+    font-weight: bold;
+  }
+
+#enviar {
+    position: absolute;
+    max-width: 300px;
+    top: 650px;
+    margin: auto;
+    left: 38%;
+  }
+
+  #limpiar {
+    position: absolute;
+    max-width: 300px;
+    top: 650px;
+    margin: auto;
+    left: 48%;
+  }
+  .tusdatos {
+    position: absolute;
+    max-width: 300px;
+    top: 50px;
+    margin: auto;
+    left: 35%; 
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #select-lg {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
